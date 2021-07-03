@@ -23,7 +23,7 @@ fun main(){
     }
 
 
-    // you can these using when in Kotlin as:-
+    // you can write these using when in Kotlin as:-
 
     val result = when(idNum){
         100-> "Your Id number is 10 using when"
